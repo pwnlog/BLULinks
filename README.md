@@ -1,4 +1,4 @@
-# BLULinks
+# BLinks
 
 Collection of resources for blue teamers.
 
