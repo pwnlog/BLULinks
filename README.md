@@ -242,10 +242,10 @@ PAM may inclue the following features:
 
 ### Network Based IPS    
 
-Trend Micro TippingPoint: https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html
-Trellix Network Security: https://www.trellix.com/products/intrusion-prevention-system/
-Fortinet FortiGate NGFW IPS Profile: https://docs.fortinet.com/document/fortigate/7.4.4/ngfw-atp-deployment-guide/900128
-Check Point Quantum IPS: https://www.checkpoint.com/quantum/intrusion-prevention-system-ips/
+- Trend Micro TippingPoint: https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html
+- Trellix Network Security: https://www.trellix.com/products/intrusion-prevention-system/
+- Fortinet FortiGate NGFW IPS Profile: https://docs.fortinet.com/document/fortigate/7.4.4/ngfw-atp-deployment-guide/900128
+- Check Point Quantum IPS: https://www.checkpoint.com/quantum/intrusion-prevention-system-ips/
 
 ### DNS Filtering  
 
